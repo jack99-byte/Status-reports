@@ -30,7 +30,7 @@ or any other mechanism.
 You can choose any formats for the screen capture as long as it shows your project executing. My simple example shows
 and execution window and browser side-by-side.
 
-| <img src="./project-execution.jpg"> |
+| <img src="./project-executionli.jpg"> |
 |:-----------------------------------:|
 |        __Project Execution__        | 
 
@@ -39,7 +39,7 @@ and execution window and browser side-by-side.
 
 Make a copy of the project and create a project in GitHub. Show the project.
 
-| <img src="./github.jpg"> |
+| <img src="./githubli.jpg"> |
 |:------------------------:|
 |  __Project on GitHub__   | 
 
@@ -48,13 +48,13 @@ Make a copy of the project and create a project in GitHub. Show the project.
 
 Show the information about your VM through the console.
 
-| <img src="./ec2-console.jpg"> |
+| <img src="./ec2-consoleli.jpg"> |
 |:-----------------------------:|
 |        __AWS Console__        | 
 
 Show the application running in the EC2 terminal and browser.
 
-| <img src="./aws-running.jpg"> |
+| <img src="./aws-runningli.jpg"> |
 |:-----------------------------:|
 |      __Service Running__      | 
 
